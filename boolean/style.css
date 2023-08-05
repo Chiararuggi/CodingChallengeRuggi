@@ -1,0 +1,73 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	color: #08dc04;
+	
+
+}
+
+.checkbox{
+	color: #ffffff;
+	margin: 75px;
+	
+}
+
+img{
+	width: 260px;
+	length: 140px;
+}
+
+body{
+	background-image: url("background.jpg");
+	background-size: cover;
+}
+
+.tutto{
+	background-color: rgba(0,0,0,0.6);
+	width: 60%;
+	length: 40%;
+	border-radius: 30px;
+	padding: 50px;
+	margin: auto;
+	
+}
+
+span{
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.bottoni{
+	background-color: #08dc04;
+	padding: 10px;
+	
+}
+
+.yellowbar{
+	
+	background-color: #f5b453;
+	padding: 18px;
+	border-radius: 10px;
+	width: 40%;
+
+}
+
+.greenbar{
+	
+	background-color: #1ec31e;
+	padding: 18px;
+	border-radius: 10px;
+	width: 70%;
+
+}
+
+.redbar{
+	
+	background-color: #be4141;
+	padding: 18px;
+	border-radius: 10px;
+	width: 15%;
+
+}
